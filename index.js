@@ -1,3 +1,5 @@
+window.$localStorage = window.localStorage;
+
 const apiloader = require('mydiscord-api-loader'),
       _package = require('./package'),
       fs = require('fs'),
