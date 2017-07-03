@@ -1,0 +1,15 @@
+{
+  "name": "mydiscord-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mydiscord-api-loader": "latest",
+    "mydiscord-api": "latest",
+    "mydiscord-plugin-csshot": "latest",
+    "mydiscord-plugin-gui": "latest"
+  }
+}
